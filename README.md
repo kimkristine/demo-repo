@@ -1,4 +1,3 @@
 # Demo
 
-Sample text for Demo
-Need to add index
+A sample guide for parents navigating child's school websites. 
